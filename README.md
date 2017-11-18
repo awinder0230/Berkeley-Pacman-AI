@@ -22,7 +22,7 @@ In this project, Pacman tries to eat all the food without being attacked by ghos
 - Expectimax Search
 - Evaluation Function Design
 
-## 3. Tracking
+## 3. Tracking: Ghostbusters
 
 Different from problem 1 and 2, Pacman is now able to hunt for ghosts in this project. However, Pacman could only track ghosts by their banging and clanging, rather than knowing the ghosts' exact positions. 
 
