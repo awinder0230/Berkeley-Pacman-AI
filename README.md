@@ -32,4 +32,11 @@ We may solve this problem by constructing a Bayesian Model, and calculate the pr
 - Approximate Inference: Particle Filtering
 - Joint Particle Filtering (for multi-ghosts cases)
   
+## 4. Reinforcement Learning
+
+In this project, we let Pacman learn to play the game by itself. Instead of planning ahead before the game starts, Pacman react to the environment in real time based on the knowledge it leart by playing the game several times.
+
+- Value Iteration
+- Reinforcement Learning: Q Learning
+- Approximate Q-Learning
 
