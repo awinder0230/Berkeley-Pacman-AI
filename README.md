@@ -40,3 +40,12 @@ In this project, we let Pacman learn to play the game by itself. Instead of plan
 - Reinforcement Learning: Q Learning
 - Approximate Q-Learning
 
+## 5. Classification
+
+In this project, we design three classifiers for two tasks. The first task is handwritten numerical digits recognition, and the second task is learning pacman's behavior by observing its previous games. Three classifiers are:
+
+- Perceptron Classifier
+- Large-Margin (MIRA) Classifier
+- Slightly Modified Perceptron Classifier for Behavioral Cloning
+
+
